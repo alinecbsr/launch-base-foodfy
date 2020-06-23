@@ -14,7 +14,6 @@ body {
   color: #111;
   background: white;
   font-family: "Roboto", sans-serif;
-  align-items: center;
 }
 
 header {
@@ -169,6 +168,9 @@ footer p {
   color: #999;
 }
 
+/*=== ABOUT ===*/
+
+
 .about-title {
   font-size: 1.5rem;
   line-height: 1.75rem;
@@ -190,3 +192,55 @@ footer p {
   margin: 0 0 2rem 0;
   color: #444;
 }
+
+/*=== MODAL ===*/
+
+.modal-overlay {
+  background-color: rgba(0, 0, 0, 0.7);
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  opacity: 0;
+  visibility: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal {
+  background-color: white;
+  position: relative;
+  width: 90%;
+  max-width: 41.25rem;
+  height: 90%;
+  max-height: 26rem;
+  margin: 0 auto;
+  border-radius: 1rem;
+  
+}
+
+.modal .close-modal {
+  color: #999;
+  position: absolute;
+  cursor: pointer;
+  left: 39%;
+  bottom: 2rem;
+}
+
+/*=== MODAL.ACTIVE ===*/
+
+.modal-overlay.active {
+  opacity: 1;
+  visibility: visible;
+}
+
+iframe {
+  width: 90%;
+  height: 50%;
+  position: absolute;
+  border-radius: 1rem !important;
+  padding: 5%;
+  top: 5%;
+}
+
