@@ -36,9 +36,6 @@ This project was developed with the following technologies:
 ## :beginner: :dart: Challenges
 <br>
 
-<h5 style="color: #333">
-Above you can check the codes of all the challenges and here we have some videos of them
-</h5>
 <br>
 <br>
 
