@@ -36,9 +36,6 @@ This project was developed with the following technologies:
 ## :beginner: :dart: Challenges
 <br>
 
-<br>
-<br>
-
 <h4 align="center" style="color: #6c4fbb" >
   💻 🚀 Challenge 2 - Building Foodfy
 </h4>
@@ -46,7 +43,7 @@ This project was developed with the following technologies:
 <br>
 <br>
 
-![](https://github.com/alinecbsr/launch-base-challenges/blob/master/projects_videos/Desafio%202-3.gif)
+![](https://github.com/alinecbsr/launch-base-foodfy/blob/master/buildingFoodfy.gif)
 
 <br>
 
